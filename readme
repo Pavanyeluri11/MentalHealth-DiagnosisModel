@@ -1,0 +1,14 @@
+# Problem Statement : 
+> Develop a model that can predict whether a employee seek treatment or not.
+> Identify the key features that lead to mental health problems in tech space.
+
+# Business use-case
+> **Problem Background** :
+>  Nearly 86% of employees report improved work performance and lower rates of absenteeism after receiving treatment for depression, according to an April 2018 article in the Journal of Occupational and Environmental Medicine. This means big gains in retention and productivity for employers. By providing employees access to mental health benefits, the company can begin to create a culture of understanding and compassion at the tech company. And having employees who feel cared for and happy isn’t just good, it’s good business.
+
+
+Source - [https://www.kaggle.com/aditiani]
+
+
+* Companies can use this model to know better about employee mental health issues and provide benefits for the needful employees, thus making efficient use of companies resources. This model can help in cutting off extra cost of providing mental health benefits for people who don't seek and use that money for other benefits of that employee. This will eventually increase employee satisfaction leading employee retention overall.
+
